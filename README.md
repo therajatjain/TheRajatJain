@@ -1,4 +1,4 @@
-### 🚀 About Me
+### About Me
 
 <p>
   Turning imagination into working code is my favorite kind of magic! ✨ I'm a passionate Web Developer <br> and AI enthusiast, always excited to learn new technologies and build cool projects. Let's code something great together! Currently a 3rd Year BCA (AIML) student at Jaipur National University.
@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="left">
   <table>
@@ -90,7 +90,7 @@
 </div>
 
 
-### 🤖 AI & Related Stuff
+### AI & Related Stuff
 
 <p align="left">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
@@ -105,7 +105,7 @@
 
 ---
 
-<h2>⚡️ Where to find me</h2>
+<h2>Where to find me</h2>
 <p>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=yellow">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue">
