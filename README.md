@@ -1,5 +1,3 @@
-<img style="width:80em;" src="assets/gradient.gif">
-
 <h1 align="left"><img src="assets/Hi.gif" width="38px"> Hey there! I'm Rajat Jain ✨</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&width=435&lines=Let's+Code+Something+Great;WEB+DEVELOPER;AI+%26+TECH+ENTHUSIAST)](https://git.io/typing-svg)
