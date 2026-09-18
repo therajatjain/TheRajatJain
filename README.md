@@ -10,12 +10,12 @@
 ```
 rajat@dev
 ─────────────────────────────────
-Role      : Product Builder & Designer
+Role      : Product Builder & GSA'25
 Based     : Kota, Rajasthan
-Studying  : MCA, GL Bajaj Institute
+Studying  : MCA, GL Bajaj Institute of Technology and Management
 ─────────────────────────────────
 Stack     : JS · Tailwind · Firebase · MySQL
-Also      : C, C++, WordPress, Docker, Linux
+Also      : C, C++, Docker, Linux
 Using AI  : Gemini · Claude · ChatGPT
 ─────────────────────────────────
 Repos     : [update]
@@ -28,9 +28,3 @@ LinkedIn  : linkedin.com/in/therajat
 </td>
 </tr>
 </table>
-
-### Currently building
-- [ ] update this line with whatever you're actually shipping right now
-
-### Featured
-- **[project name](link)** — one line on what it does and why it's real, not a toy
